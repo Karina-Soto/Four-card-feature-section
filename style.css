@@ -49,7 +49,7 @@ header p{
     animation: updown 1000ms;
 }
 
-.cardscontainer{
+.cards-container{
     max-width: 500px;
     margin: 0 auto;
     animation: downup 1000ms;
@@ -127,7 +127,7 @@ header p{
 }
 
 @media only screen and (min-width: 780px){
-    .cardscontainer{
+    .cards-container{
         display: grid;
         grid-template-columns: 1fr 1fr;
         column-gap: 30px;
@@ -141,7 +141,7 @@ header p{
 }
 
 @media only screen and (min-width: 1175px){
-    .cardscontainer{
+    .cards-container{
         display: flex;
         justify-content: center;
         align-items: center;
