@@ -58,7 +58,7 @@ header p{
 .cards{
     border-radius: 8px;
     background-color: var(--Very-Light-Gray);
-    box-shadow: 3px 10px 10px var(--Very-Dark-Blue);
+    box-shadow: 5px 10px 20px 4px rgba(76,78,97,0.40);
     margin-bottom: 30px;
     min-width: 310px;
     max-width: 500px;
